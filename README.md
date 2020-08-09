@@ -1,7 +1,7 @@
 # July_30th
 First/Last Name:    Ferdinand Feubodei 
 Email:              feubodei@gmail.com
-Favorite Song:      Chbages from time to tim
+Favorite Song:      Changes from time to tim
 Favorite Food:      Fried plantain and beans
 Favorite Movie:     I don't have one
 Github Username:    FFerdie
